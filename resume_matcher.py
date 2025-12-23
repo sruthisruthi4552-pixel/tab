@@ -61,7 +61,7 @@ def main():
     I have worked on machine learning projects and data analysis.
     Skills include programming, problem-solving, and teamwork.
     """
-    git
+    "git"
     job_description_text = """
     We are looking for a software engineer proficient in Python, Java, and C++.
     Experience in machine learning and data science is required.
